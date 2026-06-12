@@ -1,0 +1,2 @@
+# Deep-Learning-Approaches-for-Urban-Building-Footprint-Extraction-and-Rooftop-Material-Mapping-
+This project presents an advanced geospatial AI framework for automated building footprint extraction and rooftop material classification from high-resolution drone/satellite imagery. It combines ensemble deep learning models, semantic segmentation, and object detection to support urban mapping, land records, and infrastructure analysis.
